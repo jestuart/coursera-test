@@ -1,0 +1,59 @@
+body {
+	font-size: 16px;
+  	color: black;
+  	background-color: black;
+}
+
+#header-nav {
+	background-color: grey;
+	border-radius: 0;
+	border-color: black;
+}
+
+.navbar-brand h1{
+	font-size: 1.5em;
+	color: black;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -40px;
+}
+
+#nav-list {
+  margin-top: 0px;
+}
+
+.title h2 {
+	color: white;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 0px;
+	font-size: 2m;
+}
+
+#main-text {
+	background-color: grey;
+	border-color: white;
+	border-width: 2px;
+	height: 1000px;
+	width: 80%;
+	margin: auto;
+}
+
+#main-text h3 {
+	font-size: 1.5em;
+	text-align: center;
+}
+
+.navbar-nav {
+	text-align: center;
+	font-size: 1.2em;
+}
+
+.navbar-collapse {
+	width: 100%;
+}
